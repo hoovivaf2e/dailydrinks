@@ -8,7 +8,7 @@
         <el-input v-model="form.price" autocomplete="off"></el-input>
       </el-form-item>
       <el-form-item label="Notes" :label-width="formLabelWidth">
-        <el-input v-model="form.notes" autocomplete="off"></el-input>
+        <el-input v-model="form.notes" type="textarea" autocomplete="off"></el-input>
       </el-form-item>
     </el-form>
     <div slot="footer" class="dialog-footer">

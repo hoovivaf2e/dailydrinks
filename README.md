@@ -1,5 +1,14 @@
 # dailydrinks
 
+
+## Descriptions
+* Js framework: Vue.js
+* UI Framework: Element
+* In the list page, users can 'add', 'edit', and 'delete' the order
+* Passing data using vuex
+* Router: Vue router
+* Css preprocessor: scss
+
 ## Project setup
 ```
 yarn install

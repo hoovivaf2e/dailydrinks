@@ -51,7 +51,7 @@ export default {
   data () {
     return {
       edit_dialog: false,
-      dialogTitle: 'Edit',
+      dialogTitle: 'Edit Order',
       tableData: [],
       multipleSelection: [],
       inputData: {

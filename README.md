@@ -1,5 +1,6 @@
 # dailydrinks
 
+![](https://github.com/hoovivaf2e/dailydrinks/blob/master/dailydrinks.png)
 
 ## Descriptions
 * Js framework: Vue.js
